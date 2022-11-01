@@ -18,4 +18,4 @@ For this project, excel was used for reporting and the following python librarie
 - seaborn for visualization
 
 # Code
-The different codes used are available as jupyter notebooks, available under/script/
+The different codes used are available as jupyter notebooks, available under/03script/
