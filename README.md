@@ -1,6 +1,9 @@
 # Instacart_Analysis
 This is an analysis of Instacart data to identify sales pattern using python. This is a  part of careerfoundry data analytics course.
 
+#### procedure:
+New columns were derived, and customer behaviour flags were created for analysis and visualization. Use Python to create relevant customer profiles and visualize shopping preferences and behaviours for targeted ads. wrangling steps, population flow, consistency checks, column derivations, visualizations and final recommendations were documented using excel. 
+
 # Objective
 ![image](https://user-images.githubusercontent.com/117122555/199145663-c4bb195e-87e3-415d-bc2c-9a60b3d3a766.png)
 is an online grocery store that operates through an an app. Intacart already have a good sales, but they want to uncover information about their sales patterns. The objective of this project is to analyse the different type of customers and their purchasing behaviours and identify pattern for growth. 
